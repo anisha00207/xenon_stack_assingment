@@ -1,0 +1,51 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+body {
+  background-color: #797777;
+}
+.contact-form {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #fec973;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: block;
+  margin: 10px 0 5px;
+  font-size: 16px;
+  color: #333;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+  border: 1px solid #060505;
+  border-radius: 6px;
+  background-color: #ffffff;
+}
+
+input[type="submit"] {
+  background: linear-gradient(to right, #45a049, #4caf50);
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+}
+
+input[type="submit"]:hover {
+  background: linear-gradient(to right, #4caf50, #45a049);
+}
+
+.lia {
+  text-align: center;
+  margin-top: 50px;
+
+  color: rgb(1, 0, 0);
+}
