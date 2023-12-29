@@ -10,8 +10,42 @@
 
 #description
 
-AUTUMNeducation is a educational website built using HTML,CSS,PHP with mysql as the database. a user can create an account and can register into the website using their credentials they can also contact the mentors in contact us page
+AUTUMNeducation is a simple educational website that allows users to sign up, log in, and submit inquiries through a contact form. The website is built using HTML, CSS, PHP, and MySQL.
+
+
+
+## Table of Contents
+
+- [deployed link](#deployed link)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Database Configuration](#database-configuration)
+
 
 #deployed link
 
 http://webappofficial.great-site.net
+
+
+## Features
+
+- User signup and login functionality.
+- Contact form submission storing details in a MySQL database.
+- About Us page providing information about AUTUMNeducation.
+- Contact Us page allowing users to submit inquiries.
+
+##Usage
+
+-Open your web browser and navigate to the AUTUMNeducation website.
+-Register for a new account or log in if you already have one.
+-Explore the main, about us, and contact pages.
+-Use the contact form to submit inquiries.
+
+##Database Configuration
+
+-Create a MySQL database for AUTUMNeducation,name the database according to your convention change the name in db.php.
+-create two tables users and contact for the signedin users and to store the contact details of users respectively.
+
+
+
