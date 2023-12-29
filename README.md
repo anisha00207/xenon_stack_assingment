@@ -18,6 +18,7 @@ AUTUMNeducation is a simple educational website that allows users to sign up, lo
 
 - [deployedlink](#deployedlink)
 - [Features](#features)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Database Configuration](#database-configuration)
 
@@ -36,6 +37,20 @@ http://webappofficial.great-site.net
 - About Us page providing information about AUTUMNeducation.
   
 - Contact Us page allowing users to submit inquiries.
+
+
+## Installation
+
+To get started with AUTUMNeducation, you'll need to clone the repository to your local machine
+
+1. Open your terminal or command prompt.
+
+2. Navigate to htdocs directory of xampp folder.
+
+3. Clone the repository using the following command:
+   git clone https://github.com/anisha00207/xenon_stack_assingment.git
+   
+4. Set up a local development environment (e.g., XAMPP, WAMP) for PHP and MySQL.
 
   
 
